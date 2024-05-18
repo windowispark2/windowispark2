@@ -1,8 +1,5 @@
 # 안녕하세요, windowispark2입니다! 👋
 
-<div align="center">
-    <img src="https://github.com/WindowisPark/image/blob/main/mylogo.png?raw=true" alt="Logo" width="200">
-</div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=windowispark2&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=windowispark2&show_icons=true&theme=radical)
